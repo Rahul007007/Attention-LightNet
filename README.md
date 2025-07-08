@@ -30,11 +30,12 @@ Make sure you have Python installed (preferably version 3.8 or above).
 
 Install Jupyter Notebook (if not already installed):
 
-
+``` 
 pip install notebook
+
 Launch the notebook:
 
-
+``` 
 jupyter notebook sls-bed-vgg19-custom-pytorch-3cv_final.ipynb
 
 ## 📄 Citation
