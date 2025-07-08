@@ -19,4 +19,25 @@ This repository includes:
 ---
 
 ## 📁 Repository Structure
+├── .gitignore
+├── LICENSE
+├── README.md ← This file
+├── sls-bed-vgg19-custom-pytorch-3cv_final.ipynb ← Final implementation notebook
 
+## 📄 Citation
+
+If you use this codebase or refer to our work, please cite the following paper:
+
+```bibtex
+@Article{electronics14132674,
+  author    = {Das, Trishanu and Ali, Asfak and Kuar, Arunanshu Shekhar and Chaudhuri, Sheli Sinha and Nnamoko, Nonso},
+  title     = {Attention-LightNet: A Lightweight Deep Learning Real-Time Defect Detection for Laser Sintering},
+  journal   = {Electronics},
+  volume    = {14},
+  number    = {13},
+  year      = {2025},
+  article-number = {2674},
+  url       = {https://www.mdpi.com/2079-9292/14/13/2674},
+  issn      = {2079-9292},
+  doi       = {10.3390/electronics14132674}
+}
