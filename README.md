@@ -24,6 +24,19 @@ This repository includes:
 ├── README.md ← This file
 ├── sls-bed-vgg19-custom-pytorch-3cv_final.ipynb ← Final implementation notebook
 
+To execute the full implementation:
+
+Make sure you have Python installed (preferably version 3.8 or above).
+
+Install Jupyter Notebook (if not already installed):
+
+
+pip install notebook
+Launch the notebook:
+
+
+jupyter notebook sls-bed-vgg19-custom-pytorch-3cv_final.ipynb
+
 ## 📄 Citation
 
 If you use this codebase or refer to our work, please cite the following paper:
