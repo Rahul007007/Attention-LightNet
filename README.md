@@ -33,6 +33,7 @@ Install Jupyter Notebook (if not already installed):
 ``` 
 pip install notebook
 
+
 Launch the notebook:
 
 ``` 
