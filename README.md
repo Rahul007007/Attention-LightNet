@@ -3,7 +3,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.3390%2Felectronics14132674-blue)](https://doi.org/10.3390/electronics14132674)  
 📄 Published in *Electronics*, Volume 14, Issue 13, 2025  
 🔗 [Read the full paper](https://www.mdpi.com/2079-9292/14/13/2674)
-
+🔗 [Access the model weights here](https://drive.google.com/file/d/1upZ_7Nn02tj6oFPsiDEf4BX7AebH01jP/view?usp=sharing)
 ---
 
 ## 📌 Overview
